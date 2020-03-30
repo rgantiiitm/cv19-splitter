@@ -1,7 +1,7 @@
 # cv19-splitter
 
 
-We are a group of engineers and designers who constantly develop and share to the public the VentilAid project, open source ventilator, that can be made anywhere locally with 3D printer and very basic parts. Ventilators are essential to keep breathing when faced with the complications of COVID19. This project contains all the required 3D files to print out splitters for ventilators. This will help to increase the number of patients being treate using a single ventilator. 
+We are a group of doctors, engineers, designers, 3D Printers, entrepreneurs have come together to develop SPLITTER for Ventilators, - something which was unthinkable of until few weeks ago. This project contains all the required 3D files to print out splitters for ventilators. This will help to increase the number of patients being treate using a single ventilator. 
 
 WARNING: The usage of splitters with ventilators is a last resort option and solely as discretion of the doctor when there is a large scaricity of ventilators. It should never be used in normal cases.  We sincerely hope that we never have to use splitters in India. There is a lot of debate on the usage of splitters in the medical community. We request the doctors to look at the PROs and CONs and use the device based on the guidelines of the medical boards and intuition. 
 
