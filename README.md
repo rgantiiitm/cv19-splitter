@@ -8,9 +8,13 @@ WARNING: The usage of splitters with ventilators is a last resort option and sol
 The following links (not exhaustive) provide details and discussions about this approach for consideration by doctors.
 
 [SCCM Warning] https://www.sccm.org/Disaster/Joint-Statement-on-Multiple-Patients-Per-Ventilato
+
 [AARC Warning] https://www.aarc.org/wp-content/uploads/2020/03/032620-COVID-19-press-release.pdf
+
 [First splitter in Vegas] https://epmonthly.com/article/not-heroes-wear-capes-one-las-vegas-ed-saved-hundreds-lives-worst-mass-shooting-u-s-history/
+
 [Original publication] https://onlinelibrary.wiley.com/doi/epdf/10.1197/j.aem.2006.05.009
+
 [New York-Presbyterian Hospital  & Columbia splitter usage protocol] https://www.gnyha.org/wp-content/uploads/2020/03/Ventilator-Sharing-Protocol-Dual-Patient-Ventilation-with-a-Single-Mechanical-Ventilator-for-Use-during-Critical-Ventilator-Shortages.pdf
 
 [Other stories of splitter being used to manage the crisis]
